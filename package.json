@@ -1,0 +1,15 @@
+{
+  "name": "@qwqnt/types",
+  "types": "main.d.ts",
+  "exports": {
+    "./main": {
+      "types": "./main.d.ts"
+    },
+    "./preload": {
+      "types": "./preload.d.ts"
+    },
+    "./renderer": {
+      "types": "./renderer.d.ts"
+    }
+  }
+}
